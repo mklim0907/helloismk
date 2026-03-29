@@ -9,7 +9,7 @@ export default function HighlightPage() {
   const mainCategories = ['Portrait', 'Event', 'Landscape', 'Still Life'];
   
   // 模擬活動下的子分類數據結構
-  const eventSubCats = ['Meichu Games', 'NTHU Marathon', 'Youth Festival'];
+  const eventSubCats = ['Meichu Game', 'NTHU Marathon', 'Youth Festival'];
 
   return (
     <main className="min-h-screen bg-white text-black font-mono selection:bg-black selection:text-white">
