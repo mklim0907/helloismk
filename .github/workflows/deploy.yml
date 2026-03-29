@@ -1,8 +1,8 @@
-name: Deploy to GitHub Pages
+name: Deploy Next.js to Pages
 
 on:
   push:
-    branches: ["main"]
+    branches: ["main"] # 確保你的主分支名稱是 main
 
 permissions:
   contents: read
