@@ -55,10 +55,13 @@ export default function AboutPage() {
               </ul>
             </div>
             <div>
-              <h4 className="text-[10px] text-gray-300 uppercase tracking-widest mb-4">Optical Target</h4>
+              <h4 className="text-[10px] text-gray-300 uppercase tracking-widest mb-4">Interest</h4>
               <ul className="text-sm space-y-2 font-bold text-gray-700">
-                <li>Graduation Season 2026</li>
-                <li>Sports Documentary</li>
+                <li>Landscape</li>
+                <li>Travel</li>
+                <li>Portrait</li>
+                <li>Events</li>
+                <li>Sports</li>
               </ul>
             </div>
           </section>
@@ -84,7 +87,7 @@ export default function AboutPage() {
                 </div>
                 <div>
                   <h4 className="text-xl font-light tracking-tight">Instagram Archive</h4>
-                  <p className="text-[10px] text-gray-400 mt-2 font-mono">@mklim0907 / MOMENTS & BTS</p>
+                  <p className="text-[10px] text-gray-400 mt-2 font-mono">@mk_photobo0k / MOMENTS </p>
                 </div>
               </a>
 
@@ -101,7 +104,7 @@ export default function AboutPage() {
                 </div>
                 <div>
                   <h4 className="text-xl font-light tracking-tight text-blue-600">Drive: Highlight</h4>
-                  <p className="text-[10px] text-gray-400 mt-2 font-mono">SELECTED_HIGH_RES_VOL_01</p>
+                  <p className="text-[10px] text-gray-400 mt-2 font-mono">SELECTED_IMG</p>
                 </div>
               </a>
 
@@ -113,12 +116,12 @@ export default function AboutPage() {
                 className="group p-8 border border-gray-200 hover:border-black transition-all bg-white flex flex-col justify-between h-44 col-span-1 md:col-span-2"
               >
                 <div className="flex justify-between items-start">
-                  <span className="text-[10px] font-mono text-gray-400">03_CLIENT_DELIVERY</span>
+                  <span className="text-[10px] font-mono text-gray-400">03_DELIVERY</span>
                   <span className="text-xs opacity-0 group-hover:opacity-100 transition-opacity">↗</span>
                 </div>
                 <div>
                   <h4 className="text-xl font-light tracking-tight">Client Access Portal</h4>
-                  <p className="text-[10px] text-gray-400 mt-2 font-mono">ENCRYPTED_DELIVERY_SYSTEM // 專屬交圖空間</p>
+                  <p className="text-[10px] text-gray-400 mt-2 font-mono">DELIVERY_SYSTEM // 完成品</p>
                 </div>
               </a>
             </div>
