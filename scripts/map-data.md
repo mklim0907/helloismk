@@ -13,6 +13,7 @@ Map locations are city/district centers from Wikidata, rather than the GPS coord
 - Tamsui: https://www.wikidata.org/wiki/Q570509
 - Yilan: https://www.wikidata.org/wiki/Q680842
 - Keelung: https://www.wikidata.org/wiki/Q249996
+- Seoul: https://www.wikidata.org/wiki/Q8684
 - Hangzhou: https://www.wikidata.org/wiki/Q4970
 - Shanghai: https://www.wikidata.org/wiki/Q8686
 

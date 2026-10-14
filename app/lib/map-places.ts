@@ -1,9 +1,10 @@
 // City / district centers, not the GPS locations of individual photographs.
-// Coordinate sources: Wikidata Q570509, Q680842, Q249996, Q4970, Q8686.
+// Coordinate sources: Wikidata Q570509, Q680842, Q249996, Q4970, Q8686, Q8684.
 export const mapPlaces = [
   { slug: "tamsui", name: "淡水", english: "Tamsui", longitude: 121.4333, latitude: 25.1667, region: "Taiwan" },
   { slug: "yilan", name: "宜蘭", english: "Yilan", longitude: 121.75, latitude: 24.75, region: "Taiwan" },
   { slug: "keelung", name: "基隆", english: "Keelung", longitude: 121.75, latitude: 25.1, region: "Taiwan" },
+  { slug: "seoul", name: "首爾", english: "Seoul", longitude: 126.99, latitude: 37.56, region: "South Korea" },
   { slug: "hangzhou", name: "杭州", english: "Hangzhou", longitude: 120.1675, latitude: 30.25, region: "China" },
   { slug: "shanghai", name: "上海", english: "Shanghai", longitude: 121.4692, latitude: 31.2325, region: "China" },
 ] as const;

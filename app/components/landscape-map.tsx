@@ -59,12 +59,13 @@ export default function LandscapeMap({ albums }: { albums: AlbumPreview[] }) {
   if (view === "world") {
     pins = [{ id: "east", label: `東亞 · ${places.length} 地點`, longitude: 121, latitude: 28, offsetX: -75, offsetY: -40, selected: true, nextView: "east" }];
   } else if (view === "east") {
-    pins = places.filter(place => place.region === "China").map(place => ({
+    pins = places.filter(place => place.region !== "Taiwan").map(place => ({
       id: place.slug, label: place.name, longitude: place.longitude, latitude: place.latitude,
-      offsetX: place.slug === "shanghai" ? 70 : -70, offsetY: place.slug === "shanghai" ? -45 : 40,
+      offsetX: place.slug === "hangzhou" ? -70 : 70,
+      offsetY: place.slug === "seoul" ? -35 : place.slug === "shanghai" ? -45 : 40,
       selected: place.slug === selected.slug, slug: place.slug,
     }));
-    if (taiwanPlaces.length) pins.push({ id: "taiwan", label: `台灣 · ${taiwanPlaces.length} 地點`, longitude: 121.6, latitude: 25, offsetX: 45, offsetY: 45, selected: selected.region === "Taiwan", nextView: "taiwan" });
+    if (taiwanPlaces.length) pins.push({ id: "taiwan", label: `台灣 · ${taiwanPlaces.length} 地點`, longitude: 121.6, latitude: 25, offsetX: 45, offsetY: 60, selected: selected.region === "Taiwan", nextView: "taiwan" });
   } else {
     pins = taiwanPlaces.map(place => ({
       id: place.slug, label: place.name, longitude: place.longitude, latitude: place.latitude,

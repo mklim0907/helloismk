@@ -1,9 +1,88 @@
 [
   {
+    "slug": "meichu-2026",
+    "title": "2026 丙午梅竹",
+    "category": "Sports",
+    "group": "梅竹賽",
+    "folderId": "1ZOskOColPPEOie7ZbGsMofeUWTVEUZNa",
+    "photos": [
+      {
+        "id": "1L0JHLgG94q0J_sit0p3pArnLCpg_VU1N",
+        "name": "IMG_8176.jpg",
+        "driveUrl": "https://drive.google.com/file/d/1L0JHLgG94q0J_sit0p3pArnLCpg_VU1N/view?usp=drivesdk"
+      },
+      {
+        "id": "1S82wcgOkLQQsaTNV_N_cR64W1SKOmcIi",
+        "name": "IMG_8367.jpg",
+        "driveUrl": "https://drive.google.com/file/d/1S82wcgOkLQQsaTNV_N_cR64W1SKOmcIi/view?usp=drivesdk"
+      },
+      {
+        "id": "1jrhnApAmn1HQysnqkk8fvCoi1-AgdUFR",
+        "name": "IMG_8373.jpg",
+        "driveUrl": "https://drive.google.com/file/d/1jrhnApAmn1HQysnqkk8fvCoi1-AgdUFR/view?usp=drivesdk"
+      },
+      {
+        "id": "1u9nML17e-rCpmGnA49efM9G3xJmohFuu",
+        "name": "IMG_8460.jpg",
+        "driveUrl": "https://drive.google.com/file/d/1u9nML17e-rCpmGnA49efM9G3xJmohFuu/view?usp=drivesdk"
+      },
+      {
+        "id": "1Qs4NjuxwNbmjH7LfiCmt9g0rl5qHHkoy",
+        "name": "IMG_8511.jpg",
+        "driveUrl": "https://drive.google.com/file/d/1Qs4NjuxwNbmjH7LfiCmt9g0rl5qHHkoy/view?usp=drivesdk"
+      },
+      {
+        "id": "1yRfFvM7_7CXlhIYn5teMm9_fmKa8-SE1",
+        "name": "IMG_8731.jpg",
+        "driveUrl": "https://drive.google.com/file/d/1yRfFvM7_7CXlhIYn5teMm9_fmKa8-SE1/view?usp=drivesdk"
+      },
+      {
+        "id": "1ENrgOJ91yO7PSFoOoVjrlpv3Shx6iF5M",
+        "name": "IMG_8970.jpg",
+        "driveUrl": "https://drive.google.com/file/d/1ENrgOJ91yO7PSFoOoVjrlpv3Shx6iF5M/view?usp=drivesdk"
+      },
+      {
+        "id": "1WU3zRIodQthhTX9xv4T8XF8eHQisQpb5",
+        "name": "IMG_9023.jpg",
+        "driveUrl": "https://drive.google.com/file/d/1WU3zRIodQthhTX9xv4T8XF8eHQisQpb5/view?usp=drivesdk"
+      },
+      {
+        "id": "17leXFho37WRreD7YCbU9iry_XHxth-6F",
+        "name": "IMG_9386.jpg",
+        "driveUrl": "https://drive.google.com/file/d/17leXFho37WRreD7YCbU9iry_XHxth-6F/view?usp=drivesdk"
+      },
+      {
+        "id": "1pqccxlnKv9ZOBz69FLBpGQWSla_melHe",
+        "name": "IMG_9426.jpg",
+        "driveUrl": "https://drive.google.com/file/d/1pqccxlnKv9ZOBz69FLBpGQWSla_melHe/view?usp=drivesdk"
+      },
+      {
+        "id": "1t0ZpYYiQd_BkCELwvtvgB6ISjrPTtI_r",
+        "name": "IMG_9471.jpg",
+        "driveUrl": "https://drive.google.com/file/d/1t0ZpYYiQd_BkCELwvtvgB6ISjrPTtI_r/view?usp=drivesdk"
+      },
+      {
+        "id": "1ia4RuF8qe2qQI4cBiR4XRm7HMF8OjAyv",
+        "name": "IMG_9637.jpg",
+        "driveUrl": "https://drive.google.com/file/d/1ia4RuF8qe2qQI4cBiR4XRm7HMF8OjAyv/view?usp=drivesdk"
+      },
+      {
+        "id": "1MW4jColL8FNk0nl1bszJMy5yA1CYychT",
+        "name": "IMG_9805.jpg",
+        "driveUrl": "https://drive.google.com/file/d/1MW4jColL8FNk0nl1bszJMy5yA1CYychT/view?usp=drivesdk"
+      },
+      {
+        "id": "1zZbx4u-cAeHH13R0dZ-CikrVCXcCln--",
+        "name": "IMG_9869.jpg",
+        "driveUrl": "https://drive.google.com/file/d/1zZbx4u-cAeHH13R0dZ-CikrVCXcCln--/view?usp=drivesdk"
+      }
+    ]
+  },
+  {
     "slug": "meichu-2025",
     "title": "2025 乙巳梅竹",
     "category": "Sports",
-    "group": "校內活動 / 梅竹賽",
+    "group": "梅竹賽",
     "folderId": "1pQKELdyJxAuv0Dzt5cv8F6ROCVmxKaoM",
     "photos": [
       {
@@ -22,11 +101,6 @@
         "driveUrl": "https://drive.google.com/file/d/1VEwVTklRkV6vuD3kG5uKaxcd3D32aLP9/view?usp=drivesdk"
       },
       {
-        "id": "1ieq1x3ynARVDm51TATQW5YBmHdswIPJY",
-        "name": "IMG_0099.jpg",
-        "driveUrl": "https://drive.google.com/file/d/1ieq1x3ynARVDm51TATQW5YBmHdswIPJY/view?usp=drivesdk"
-      },
-      {
         "id": "1pyFz_AAdfbRWPiWhLS1u2k9PJHiA8ly3",
         "name": "IMG_9621.jpg",
         "driveUrl": "https://drive.google.com/file/d/1pyFz_AAdfbRWPiWhLS1u2k9PJHiA8ly3/view?usp=drivesdk"
@@ -37,34 +111,9 @@
         "driveUrl": "https://drive.google.com/file/d/1KklGPjQiobFbXZoAa_7MlgJmjOVxH4EA/view?usp=drivesdk"
       },
       {
-        "id": "1ML832ViaqqF9rH3EVKz7YfNZquQg0HYl",
-        "name": "IMG_9628-2.jpg",
-        "driveUrl": "https://drive.google.com/file/d/1ML832ViaqqF9rH3EVKz7YfNZquQg0HYl/view?usp=drivesdk"
-      },
-      {
         "id": "1MNC5florGRJtuKJwJcZYET6YItCEdjQw",
         "name": "IMG_9630.jpg",
         "driveUrl": "https://drive.google.com/file/d/1MNC5florGRJtuKJwJcZYET6YItCEdjQw/view?usp=drivesdk"
-      },
-      {
-        "id": "13uwng_A3sHfypNIi9BIvuSxThqyUL5M6",
-        "name": "IMG_9631.jpg",
-        "driveUrl": "https://drive.google.com/file/d/13uwng_A3sHfypNIi9BIvuSxThqyUL5M6/view?usp=drivesdk"
-      },
-      {
-        "id": "1VIwssBr5HqnaoLWehEiuxSJvnCEndsNF",
-        "name": "IMG_9641.jpg",
-        "driveUrl": "https://drive.google.com/file/d/1VIwssBr5HqnaoLWehEiuxSJvnCEndsNF/view?usp=drivesdk"
-      },
-      {
-        "id": "1Q4Fcz_rujDZPv_hF58athV5JGel8tSy0",
-        "name": "IMG_9653.jpg",
-        "driveUrl": "https://drive.google.com/file/d/1Q4Fcz_rujDZPv_hF58athV5JGel8tSy0/view?usp=drivesdk"
-      },
-      {
-        "id": "1k8b87ogCtPihyZoDdc9onot2bfAkl6so",
-        "name": "IMG_9654.jpg",
-        "driveUrl": "https://drive.google.com/file/d/1k8b87ogCtPihyZoDdc9onot2bfAkl6so/view?usp=drivesdk"
       },
       {
         "id": "1hX1noELN9XsptcT6m3sy68thFimW2zJo",
@@ -82,11 +131,6 @@
         "driveUrl": "https://drive.google.com/file/d/1ZxoZl8CG57MvRWV3ja2iQz6cTAyyRgKr/view?usp=drivesdk"
       },
       {
-        "id": "1olzvwRvntBTHxaVWpr2dRt_YOI2w2Il1",
-        "name": "IMG_9688.jpg",
-        "driveUrl": "https://drive.google.com/file/d/1olzvwRvntBTHxaVWpr2dRt_YOI2w2Il1/view?usp=drivesdk"
-      },
-      {
         "id": "1s3u6YWANF45pgyv0bQqrgc-EPgdhFW2e",
         "name": "IMG_9690.jpg",
         "driveUrl": "https://drive.google.com/file/d/1s3u6YWANF45pgyv0bQqrgc-EPgdhFW2e/view?usp=drivesdk"
@@ -95,11 +139,6 @@
         "id": "1V-abiID9hCDY87GKXUmTSerHQzYJ3Z4r",
         "name": "IMG_9737.jpg",
         "driveUrl": "https://drive.google.com/file/d/1V-abiID9hCDY87GKXUmTSerHQzYJ3Z4r/view?usp=drivesdk"
-      },
-      {
-        "id": "1-KUU7Xa5c7A-kh0sMW8XqOQF5sSES3uQ",
-        "name": "IMG_9738.jpg",
-        "driveUrl": "https://drive.google.com/file/d/1-KUU7Xa5c7A-kh0sMW8XqOQF5sSES3uQ/view?usp=drivesdk"
       },
       {
         "id": "1T5tfNr4M4rK5dR-y-25ooIjVwX7uagmo",
@@ -112,34 +151,14 @@
         "driveUrl": "https://drive.google.com/file/d/122kyN4HWG1E6sIB_Xey8vzE7XwB7SVMX/view?usp=drivesdk"
       },
       {
-        "id": "1ogv9bm0tsKRdnaj-cffIiZziFE8dziQR",
-        "name": "IMG_9817.jpg",
-        "driveUrl": "https://drive.google.com/file/d/1ogv9bm0tsKRdnaj-cffIiZziFE8dziQR/view?usp=drivesdk"
-      },
-      {
         "id": "1w5Z2z5A9l_xBMzNyVQR6Gn44VV2SzGb8",
         "name": "IMG_9822.jpg",
         "driveUrl": "https://drive.google.com/file/d/1w5Z2z5A9l_xBMzNyVQR6Gn44VV2SzGb8/view?usp=drivesdk"
       },
       {
-        "id": "1PfNod9oKFNqdKDWO9ovvKqKkkwQMgXxf",
-        "name": "IMG_9870.jpg",
-        "driveUrl": "https://drive.google.com/file/d/1PfNod9oKFNqdKDWO9ovvKqKkkwQMgXxf/view?usp=drivesdk"
-      },
-      {
         "id": "1sBqFZ45TvsGpE9gnhKoHllzKi_hqnYV_",
         "name": "IMG_9907.jpg",
         "driveUrl": "https://drive.google.com/file/d/1sBqFZ45TvsGpE9gnhKoHllzKi_hqnYV_/view?usp=drivesdk"
-      },
-      {
-        "id": "1SsIPK5bths02kZmincdWPsmG_5ZCS5l6",
-        "name": "IMG_9917.jpg",
-        "driveUrl": "https://drive.google.com/file/d/1SsIPK5bths02kZmincdWPsmG_5ZCS5l6/view?usp=drivesdk"
-      },
-      {
-        "id": "1VRHzwLaCFfb97LnnB-VRI44vNYR3KWFY",
-        "name": "IMG_9932.jpg",
-        "driveUrl": "https://drive.google.com/file/d/1VRHzwLaCFfb97LnnB-VRI44vNYR3KWFY/view?usp=drivesdk"
       },
       {
         "id": "1LdDMGU6roenVr4qPnf77ZrBTQ_AsYLsH",
@@ -157,11 +176,6 @@
         "driveUrl": "https://drive.google.com/file/d/1iOFrxtUTKtxCLuvRDGvBqkgVmjkxy-Hw/view?usp=drivesdk"
       },
       {
-        "id": "1OBpOzUPGjAjIzRakqWq82Q7qRY6C5hY2",
-        "name": "IMG_9973.jpg",
-        "driveUrl": "https://drive.google.com/file/d/1OBpOzUPGjAjIzRakqWq82Q7qRY6C5hY2/view?usp=drivesdk"
-      },
-      {
         "id": "1gLI_OorK60OZtGS4AeEipr5OyC4cbt5W",
         "name": "IMG_9999.jpg",
         "driveUrl": "https://drive.google.com/file/d/1gLI_OorK60OZtGS4AeEipr5OyC4cbt5W/view?usp=drivesdk"
@@ -169,110 +183,8 @@
     ]
   },
   {
-    "slug": "meichu-2024",
-    "title": "2024 甲辰梅竹",
-    "category": "Sports",
-    "group": "校內活動 / 梅竹賽",
-    "folderId": "1JM9IIYr07THLTZkbtAIj99x-U-O39bqg",
-    "photos": [
-      {
-        "id": "1UBRiDCpmwHkKD2YROmuKv8-zoDT2L0IJ",
-        "name": "DSC_0008.jpg",
-        "driveUrl": "https://drive.google.com/file/d/1UBRiDCpmwHkKD2YROmuKv8-zoDT2L0IJ/view?usp=drivesdk"
-      },
-      {
-        "id": "1wcekiahwH9TfTxYSd3SU9SPdRk37Yfko",
-        "name": "DSC_0047.jpg",
-        "driveUrl": "https://drive.google.com/file/d/1wcekiahwH9TfTxYSd3SU9SPdRk37Yfko/view?usp=drivesdk"
-      },
-      {
-        "id": "1HxLn4w-Aw8nnyYz1x0gNnnjJsNp_j10b",
-        "name": "DSC_0059.jpg",
-        "driveUrl": "https://drive.google.com/file/d/1HxLn4w-Aw8nnyYz1x0gNnnjJsNp_j10b/view?usp=drivesdk"
-      },
-      {
-        "id": "10GPAsqxlYkm4lM1flOsl_VtAUpjI-m9o",
-        "name": "DSC_0060.jpg",
-        "driveUrl": "https://drive.google.com/file/d/10GPAsqxlYkm4lM1flOsl_VtAUpjI-m9o/view?usp=drivesdk"
-      },
-      {
-        "id": "1_-uPHPSMXK66yoCNnk8ZsKNgUVRiLeTL",
-        "name": "DSC_0083.jpg",
-        "driveUrl": "https://drive.google.com/file/d/1_-uPHPSMXK66yoCNnk8ZsKNgUVRiLeTL/view?usp=drivesdk"
-      },
-      {
-        "id": "1-x1rvHJ4ZY8p7q5mmcKmEemIAfEoU1as",
-        "name": "DSC_0084.jpg",
-        "driveUrl": "https://drive.google.com/file/d/1-x1rvHJ4ZY8p7q5mmcKmEemIAfEoU1as/view?usp=drivesdk"
-      },
-      {
-        "id": "1BRJVPgj3F_OMV5G3rn4kGjnj8vBZrh_0",
-        "name": "DSC_0105.jpg",
-        "driveUrl": "https://drive.google.com/file/d/1BRJVPgj3F_OMV5G3rn4kGjnj8vBZrh_0/view?usp=drivesdk"
-      }
-    ]
-  },
-  {
-    "slug": "meichu-2023",
-    "title": "2023 癸卯梅竹",
-    "category": "Sports",
-    "group": "校內活動 / 梅竹賽",
-    "folderId": "188ybItLTEiqsQf4d1Ef2PWkV1A73Tmr8",
-    "photos": [
-      {
-        "id": "1EQC7OkNhqAudwqldtRuzBO4Cgor-FNom",
-        "name": "DSC_0352.jpg",
-        "driveUrl": "https://drive.google.com/file/d/1EQC7OkNhqAudwqldtRuzBO4Cgor-FNom/view?usp=drivesdk"
-      },
-      {
-        "id": "1BOrwhEf8QWHSdwHFq1AMP9mbuTwwNnpG",
-        "name": "DSC_0419.jpg",
-        "driveUrl": "https://drive.google.com/file/d/1BOrwhEf8QWHSdwHFq1AMP9mbuTwwNnpG/view?usp=drivesdk"
-      },
-      {
-        "id": "1E43BDFOxzWyBj7sEzHEyLtTx5nj-hnBh",
-        "name": "DSC_0428.jpg",
-        "driveUrl": "https://drive.google.com/file/d/1E43BDFOxzWyBj7sEzHEyLtTx5nj-hnBh/view?usp=drivesdk"
-      },
-      {
-        "id": "1Kai1es5rLmshQ45FiL_aNVezLUMyzIG2",
-        "name": "DSC_0445.jpg",
-        "driveUrl": "https://drive.google.com/file/d/1Kai1es5rLmshQ45FiL_aNVezLUMyzIG2/view?usp=drivesdk"
-      }
-    ]
-  },
-  {
-    "slug": "club-expo-2024",
-    "title": "2024 社團博覽會",
-    "category": "Event",
-    "group": "校內活動",
-    "folderId": "1f1vwYQcmft67quipnuP4OqoghtOL0s5u",
-    "photos": [
-      {
-        "id": "1VWI8E5SeSxlWMXt7cpr5AE4Rgxl0qNDh",
-        "name": "DSC_0003.JPG",
-        "driveUrl": "https://drive.google.com/file/d/1VWI8E5SeSxlWMXt7cpr5AE4Rgxl0qNDh/view?usp=drivesdk"
-      },
-      {
-        "id": "1goe6CKwYkm2hi19Sgry_oKRgN_t1hETf",
-        "name": "DSC_0027.JPG",
-        "driveUrl": "https://drive.google.com/file/d/1goe6CKwYkm2hi19Sgry_oKRgN_t1hETf/view?usp=drivesdk"
-      },
-      {
-        "id": "1J8Ix1PxYxeFGg3Xver0h-zjmVbCV2wcZ",
-        "name": "DSC_0053.JPG",
-        "driveUrl": "https://drive.google.com/file/d/1J8Ix1PxYxeFGg3Xver0h-zjmVbCV2wcZ/view?usp=drivesdk"
-      },
-      {
-        "id": "1kj7o2D7EUh9dldy7R3TJHLQWhjba-vY2",
-        "name": "DSC_0121.JPG",
-        "driveUrl": "https://drive.google.com/file/d/1kj7o2D7EUh9dldy7R3TJHLQWhjba-vY2/view?usp=drivesdk"
-      }
-    ]
-  },
-  {
     "slug": "food-fair-2024",
-    "title": "2024 美食展-校慶",
+    "title": "2024 校慶",
     "category": "Event",
     "group": "校內活動",
     "folderId": "1JxWMTx9EZgDpx6r57tmLu9LQHaKYOztL",
@@ -283,29 +195,9 @@
         "driveUrl": "https://drive.google.com/file/d/1ll_DwanC3-NUkqaItTIwLNXuZuQYrXLi/view?usp=drivesdk"
       },
       {
-        "id": "1iXhiEGzHPYgt9hfv6cYhyjRmUcJ1UNCU",
-        "name": "DSC_0204.jpg",
-        "driveUrl": "https://drive.google.com/file/d/1iXhiEGzHPYgt9hfv6cYhyjRmUcJ1UNCU/view?usp=drivesdk"
-      },
-      {
-        "id": "16FpIok_8OB9uf1uvWHWh4IefzrzZoZa8",
-        "name": "DSC_0245.jpg",
-        "driveUrl": "https://drive.google.com/file/d/16FpIok_8OB9uf1uvWHWh4IefzrzZoZa8/view?usp=drivesdk"
-      },
-      {
         "id": "1XwBI5_8BGkzwhDYjkktfkyNDQuByQn_o",
         "name": "DSC_0266.jpg",
         "driveUrl": "https://drive.google.com/file/d/1XwBI5_8BGkzwhDYjkktfkyNDQuByQn_o/view?usp=drivesdk"
-      },
-      {
-        "id": "1CtSwqRMAVm9fZoQFcurV0-TVOIMd-dG3",
-        "name": "DSC_0346.jpg",
-        "driveUrl": "https://drive.google.com/file/d/1CtSwqRMAVm9fZoQFcurV0-TVOIMd-dG3/view?usp=drivesdk"
-      },
-      {
-        "id": "116LqwhmvFeJzIEBQGi25-dagPLCOrYB-",
-        "name": "DSC_0397.jpg",
-        "driveUrl": "https://drive.google.com/file/d/116LqwhmvFeJzIEBQGi25-dagPLCOrYB-/view?usp=drivesdk"
       }
     ]
   },
@@ -313,69 +205,9 @@
     "slug": "orientation-2023",
     "title": "2023 新生座談會",
     "category": "Event",
-    "group": "其他活動",
+    "group": "其他",
     "folderId": "1ii06KdfLH_hB16Y7dZeVq9wTvGjLSp_B",
     "photos": [
-      {
-        "id": "121wMMno5TqHyhmdssAi-dmSscMgRiVcg",
-        "name": "DSC_0002.jpg",
-        "driveUrl": "https://drive.google.com/file/d/121wMMno5TqHyhmdssAi-dmSscMgRiVcg/view?usp=drivesdk"
-      },
-      {
-        "id": "1efzVGVFuUVY16g9PIscg7K1gGBqtH0I7",
-        "name": "DSC_0021.jpg",
-        "driveUrl": "https://drive.google.com/file/d/1efzVGVFuUVY16g9PIscg7K1gGBqtH0I7/view?usp=drivesdk"
-      },
-      {
-        "id": "1dvQq7KyWWL1xJ7DpOfJttCv9tes4hwIa",
-        "name": "DSC_0022.jpg",
-        "driveUrl": "https://drive.google.com/file/d/1dvQq7KyWWL1xJ7DpOfJttCv9tes4hwIa/view?usp=drivesdk"
-      },
-      {
-        "id": "1OG2ZtRlzxakqsrMMBNk0nZ4tVIvzRa9O",
-        "name": "DSC_0042.jpg",
-        "driveUrl": "https://drive.google.com/file/d/1OG2ZtRlzxakqsrMMBNk0nZ4tVIvzRa9O/view?usp=drivesdk"
-      },
-      {
-        "id": "1OOBiMWpnBBuF3FpdrmZBj-o2ZsGB5JjV",
-        "name": "DSC_0047.jpg",
-        "driveUrl": "https://drive.google.com/file/d/1OOBiMWpnBBuF3FpdrmZBj-o2ZsGB5JjV/view?usp=drivesdk"
-      },
-      {
-        "id": "1FwSAbL61SIlUwtxC7w7LdXC9AwHsd_EK",
-        "name": "DSC_0054.jpg",
-        "driveUrl": "https://drive.google.com/file/d/1FwSAbL61SIlUwtxC7w7LdXC9AwHsd_EK/view?usp=drivesdk"
-      },
-      {
-        "id": "1hKVKtx69WIHS415LXI9Qp4_bYlz8V05w",
-        "name": "DSC_0087.jpg",
-        "driveUrl": "https://drive.google.com/file/d/1hKVKtx69WIHS415LXI9Qp4_bYlz8V05w/view?usp=drivesdk"
-      },
-      {
-        "id": "1qPBpJq1yUOVu8CZs2xvixY2L4VIegEVK",
-        "name": "DSC_0105.jpg",
-        "driveUrl": "https://drive.google.com/file/d/1qPBpJq1yUOVu8CZs2xvixY2L4VIegEVK/view?usp=drivesdk"
-      },
-      {
-        "id": "1LOiNKa0RlNnqd7RD7ZdW4CmRLtNjqo1z",
-        "name": "DSC_0122.jpg",
-        "driveUrl": "https://drive.google.com/file/d/1LOiNKa0RlNnqd7RD7ZdW4CmRLtNjqo1z/view?usp=drivesdk"
-      },
-      {
-        "id": "1oVPVi7smdRnV8UlkujLynUyF-nYXM-wW",
-        "name": "DSC_0125.jpg",
-        "driveUrl": "https://drive.google.com/file/d/1oVPVi7smdRnV8UlkujLynUyF-nYXM-wW/view?usp=drivesdk"
-      },
-      {
-        "id": "1kzLh3no6TcVKI1iZ-gE--EpV7CWux42X",
-        "name": "DSC_0144.jpg",
-        "driveUrl": "https://drive.google.com/file/d/1kzLh3no6TcVKI1iZ-gE--EpV7CWux42X/view?usp=drivesdk"
-      },
-      {
-        "id": "1Is8gXXXQOUdxto-M65JfIYfHgSyxPUTV",
-        "name": "DSC_0152.jpg",
-        "driveUrl": "https://drive.google.com/file/d/1Is8gXXXQOUdxto-M65JfIYfHgSyxPUTV/view?usp=drivesdk"
-      },
       {
         "id": "1lta7PsAGb7GgBrA3uS8B5nZTkbTkVPM8",
         "name": "DSC_0214.jpg",
@@ -397,38 +229,13 @@
     "slug": "handover-ceremony",
     "title": "主任交接儀式",
     "category": "Event",
-    "group": "2024 課外組活動",
+    "group": "其他 / 2024 課外組活動",
     "folderId": "1yBUeXbXEuXesPO6XC-pIWlrS4ldTtys1",
     "photos": [
-      {
-        "id": "1ZZjO5LQr9RVC_hLy_I7_G1o2eKGf7BES",
-        "name": "DSC_0010.jpg",
-        "driveUrl": "https://drive.google.com/file/d/1ZZjO5LQr9RVC_hLy_I7_G1o2eKGf7BES/view?usp=drivesdk"
-      },
-      {
-        "id": "1z5V1H33vgRY19VsebrcK7ymcG6PWiNQA",
-        "name": "DSC_0014.jpg",
-        "driveUrl": "https://drive.google.com/file/d/1z5V1H33vgRY19VsebrcK7ymcG6PWiNQA/view?usp=drivesdk"
-      },
       {
         "id": "1d9n1EqE2y_M-il6roTdo2mCwRDHDtjJR",
         "name": "DSC_0033.jpg",
         "driveUrl": "https://drive.google.com/file/d/1d9n1EqE2y_M-il6roTdo2mCwRDHDtjJR/view?usp=drivesdk"
-      },
-      {
-        "id": "19rXexKt39LKbyWhDVZUfbhmCp6FFoQ5O",
-        "name": "DSC_0039.jpg",
-        "driveUrl": "https://drive.google.com/file/d/19rXexKt39LKbyWhDVZUfbhmCp6FFoQ5O/view?usp=drivesdk"
-      },
-      {
-        "id": "1t8CkRc7rCgtwrC_JNAlx1fdNEbQwdnau",
-        "name": "DSC_0055.jpg",
-        "driveUrl": "https://drive.google.com/file/d/1t8CkRc7rCgtwrC_JNAlx1fdNEbQwdnau/view?usp=drivesdk"
-      },
-      {
-        "id": "17zvHsRNMQnbPeUtBlpvRSHlxtCJ9dW5z",
-        "name": "DSC_0067.jpg",
-        "driveUrl": "https://drive.google.com/file/d/17zvHsRNMQnbPeUtBlpvRSHlxtCJ9dW5z/view?usp=drivesdk"
       },
       {
         "id": "1fnAq-O3KWb4HhkTxTGjeFMhPhgKZiE8p",
@@ -439,45 +246,6 @@
         "id": "1_g1o7J6btQuBUN_EjRcuPidnyGgF_I-P",
         "name": "DSC_0094.jpg",
         "driveUrl": "https://drive.google.com/file/d/1_g1o7J6btQuBUN_EjRcuPidnyGgF_I-P/view?usp=drivesdk"
-      },
-      {
-        "id": "175l2xzxfNRd9KiOsw2spOCLEz2fMCsEI",
-        "name": "DSC_0104.jpg",
-        "driveUrl": "https://drive.google.com/file/d/175l2xzxfNRd9KiOsw2spOCLEz2fMCsEI/view?usp=drivesdk"
-      }
-    ]
-  },
-  {
-    "slug": "club-report",
-    "title": "社團工作匯報",
-    "category": "Event",
-    "group": "2024 課外組活動",
-    "folderId": "1Xih0LDAZxQZDnCGu3Uw0Umz-ExcECSaj",
-    "photos": [
-      {
-        "id": "1Sxnox2NYIQjHwkyDVoFawYx1HYuq-ARu",
-        "name": "DSC_0017.JPG",
-        "driveUrl": "https://drive.google.com/file/d/1Sxnox2NYIQjHwkyDVoFawYx1HYuq-ARu/view?usp=drivesdk"
-      },
-      {
-        "id": "15ZvGbff2Lsg2UvvN3eMQBhPajreAUT6z",
-        "name": "DSC_0025.JPG",
-        "driveUrl": "https://drive.google.com/file/d/15ZvGbff2Lsg2UvvN3eMQBhPajreAUT6z/view?usp=drivesdk"
-      },
-      {
-        "id": "1zYTL9OwI3w_DYZ9FN8oR77u8rb3WcmB5",
-        "name": "DSC_0039.JPG",
-        "driveUrl": "https://drive.google.com/file/d/1zYTL9OwI3w_DYZ9FN8oR77u8rb3WcmB5/view?usp=drivesdk"
-      },
-      {
-        "id": "1PMrOY5MWz2LBdSqXXednrcYCMPOlENiY",
-        "name": "IMG_7842.JPG（副本）",
-        "driveUrl": "https://drive.google.com/file/d/1PMrOY5MWz2LBdSqXXednrcYCMPOlENiY/view?usp=drivesdk"
-      },
-      {
-        "id": "1Mregq_Dgj04-Li8I55eii02hnE_x-IjK",
-        "name": "IMG_7857.JPG（副本）",
-        "driveUrl": "https://drive.google.com/file/d/1Mregq_Dgj04-Li8I55eii02hnE_x-IjK/view?usp=drivesdk"
       }
     ]
   },
@@ -597,11 +365,6 @@
     "folderId": "1rkfwWR6Coco7XzQyDYz3RaImqt9jbZvj",
     "photos": [
       {
-        "id": "1aIdReO7G703RXkD900iNPvoeJRBaWDZt",
-        "name": "DSC_0187.jpg",
-        "driveUrl": "https://drive.google.com/file/d/1aIdReO7G703RXkD900iNPvoeJRBaWDZt/view?usp=drivesdk"
-      },
-      {
         "id": "1jSE6_kaiphK-_iwrSubwlgisSKsETLge",
         "name": "DSC_0198.jpg",
         "driveUrl": "https://drive.google.com/file/d/1jSE6_kaiphK-_iwrSubwlgisSKsETLge/view?usp=drivesdk"
@@ -620,16 +383,6 @@
         "id": "1WY7gSqUDeOP1HiPk6-0Ao43tij8j9K2j",
         "name": "DSC_0283-Enhanced-NR-HDR.jpg",
         "driveUrl": "https://drive.google.com/file/d/1WY7gSqUDeOP1HiPk6-0Ao43tij8j9K2j/view?usp=drivesdk"
-      },
-      {
-        "id": "1qocKJP-rdOrO56EnJdGF6qUD97HqrLt7",
-        "name": "DSC_0296.jpg",
-        "driveUrl": "https://drive.google.com/file/d/1qocKJP-rdOrO56EnJdGF6qUD97HqrLt7/view?usp=drivesdk"
-      },
-      {
-        "id": "1_iE5P-OoUs6COAijx8nq5XJC3QLL8531",
-        "name": "DSC_0300.jpg",
-        "driveUrl": "https://drive.google.com/file/d/1_iE5P-OoUs6COAijx8nq5XJC3QLL8531/view?usp=drivesdk"
       }
     ]
   },
@@ -670,24 +423,9 @@
         "driveUrl": "https://drive.google.com/file/d/1o0H_A8Ma8Z0KOtgRWGoIEOCoKCtzWduX/view?usp=drivesdk"
       },
       {
-        "id": "127eRoVWyGD3X7SX4Bq8tlA0AgSqkNTg8",
-        "name": "DSC_0031.jpg",
-        "driveUrl": "https://drive.google.com/file/d/127eRoVWyGD3X7SX4Bq8tlA0AgSqkNTg8/view?usp=drivesdk"
-      },
-      {
-        "id": "16kBuqeovDxjqCPDcSkyuvpn1QWGThDQ4",
-        "name": "DSC_0034.jpg",
-        "driveUrl": "https://drive.google.com/file/d/16kBuqeovDxjqCPDcSkyuvpn1QWGThDQ4/view?usp=drivesdk"
-      },
-      {
         "id": "1vmY5vRETyjhGM1NhnjblOypuUZwQL7lM",
         "name": "DSC_0054.jpg",
         "driveUrl": "https://drive.google.com/file/d/1vmY5vRETyjhGM1NhnjblOypuUZwQL7lM/view?usp=drivesdk"
-      },
-      {
-        "id": "1bOWLm604pFnQtHnPaI4_ORB5RBuRpJY1",
-        "name": "DSC_0056.jpg",
-        "driveUrl": "https://drive.google.com/file/d/1bOWLm604pFnQtHnPaI4_ORB5RBuRpJY1/view?usp=drivesdk"
       },
       {
         "id": "1aZdlyF_pZXVZweLJOG6fM5c_tu4IrlEh",
@@ -695,29 +433,58 @@
         "driveUrl": "https://drive.google.com/file/d/1aZdlyF_pZXVZweLJOG6fM5c_tu4IrlEh/view?usp=drivesdk"
       },
       {
-        "id": "1EafrJNUOVW50jBdy_0YwL6d_ZFCv-ZAq",
-        "name": "DSC_0062.jpg",
-        "driveUrl": "https://drive.google.com/file/d/1EafrJNUOVW50jBdy_0YwL6d_ZFCv-ZAq/view?usp=drivesdk"
-      },
-      {
         "id": "1EZ3DdMzyDOFnPhb6tfvWwtPwmql_50Q8",
         "name": "DSC_0063.jpg",
         "driveUrl": "https://drive.google.com/file/d/1EZ3DdMzyDOFnPhb6tfvWwtPwmql_50Q8/view?usp=drivesdk"
       },
       {
-        "id": "10312a8x8wLo5INN563DqU0S1wlkYrj65",
-        "name": "DSC_0069.jpg",
-        "driveUrl": "https://drive.google.com/file/d/10312a8x8wLo5INN563DqU0S1wlkYrj65/view?usp=drivesdk"
-      },
-      {
-        "id": "1XSoUehwetUdT8I-UMO-TLgxK3vp_B8G5",
-        "name": "DSC_0076.jpg",
-        "driveUrl": "https://drive.google.com/file/d/1XSoUehwetUdT8I-UMO-TLgxK3vp_B8G5/view?usp=drivesdk"
-      },
-      {
         "id": "14q4ZK6srK5PJexHFGOd3GujEIzD9bQgM",
         "name": "DSC_0082.jpg",
         "driveUrl": "https://drive.google.com/file/d/14q4ZK6srK5PJexHFGOd3GujEIzD9bQgM/view?usp=drivesdk"
+      }
+    ]
+  },
+  {
+    "slug": "seoul",
+    "title": "KOR 首爾",
+    "category": "Landscape",
+    "group": "韓國",
+    "folderId": "1exC9w4ObFfk_GUUc3ffWUy1x0QifmWTF",
+    "photos": [
+      {
+        "id": "1s6NS_f2vXTVZXGPlqz6d0kGf75XV7msb",
+        "name": "IMG_1106.JPG",
+        "driveUrl": "https://drive.google.com/file/d/1s6NS_f2vXTVZXGPlqz6d0kGf75XV7msb/view?usp=drivesdk"
+      },
+      {
+        "id": "1gsAx9HjJSqDDqoXhnJwmXG-P7khDeHQM",
+        "name": "IMG_2165.jpg",
+        "driveUrl": "https://drive.google.com/file/d/1gsAx9HjJSqDDqoXhnJwmXG-P7khDeHQM/view?usp=drivesdk"
+      },
+      {
+        "id": "1bVGaFyo7rzn4JfpgEiJAkEYk1OCyMQ8X",
+        "name": "IMG_2169.jpg",
+        "driveUrl": "https://drive.google.com/file/d/1bVGaFyo7rzn4JfpgEiJAkEYk1OCyMQ8X/view?usp=drivesdk"
+      },
+      {
+        "id": "1Fu5xkG8KhFU-3JGA27ArtKJYoexpvphY",
+        "name": "IMG_2171.jpg",
+        "driveUrl": "https://drive.google.com/file/d/1Fu5xkG8KhFU-3JGA27ArtKJYoexpvphY/view?usp=drivesdk"
+      },
+      {
+        "id": "1n4oiiSKw_SfOettNNO59_3gNcdtmuTdL",
+        "name": "IMG_2181.jpg",
+        "driveUrl": "https://drive.google.com/file/d/1n4oiiSKw_SfOettNNO59_3gNcdtmuTdL/view?usp=drivesdk"
+      },
+      {
+        "id": "1neVTsYB3cnqlb4CWEoigXBzntGcmjcPG",
+        "name": "IMG_2197.jpg",
+        "driveUrl": "https://drive.google.com/file/d/1neVTsYB3cnqlb4CWEoigXBzntGcmjcPG/view?usp=drivesdk"
+      },
+      {
+        "id": "1ILZIDASm0VP-VzqGNkZEE74Bzd9MO0Kf",
+        "name": "IMG_2198.jpg",
+        "driveUrl": "https://drive.google.com/file/d/1ILZIDASm0VP-VzqGNkZEE74Bzd9MO0Kf/view?usp=drivesdk"
       }
     ]
   },
@@ -758,14 +525,59 @@
         "driveUrl": "https://drive.google.com/file/d/1YUl6MIM4_l8cRC_xoM2txAgi6wY2VE3Z/view?usp=drivesdk"
       },
       {
-        "id": "1JiLGuyoNbGl0dN8-SXtB08RnitN_KDt-",
-        "name": "DSC_0572-2.jpg",
-        "driveUrl": "https://drive.google.com/file/d/1JiLGuyoNbGl0dN8-SXtB08RnitN_KDt-/view?usp=drivesdk"
+        "id": "1JUG2Sbns1MPXs3WJWZDFsdpE1skcAlya",
+        "name": "IMG_7651-2.jpg",
+        "driveUrl": "https://drive.google.com/file/d/1JUG2Sbns1MPXs3WJWZDFsdpE1skcAlya/view?usp=drivesdk"
       },
       {
-        "id": "1tM7FGnTrs2f04p0XBtq4sJkmx6R8JaS_",
-        "name": "DSC_0612-3.jpg",
-        "driveUrl": "https://drive.google.com/file/d/1tM7FGnTrs2f04p0XBtq4sJkmx6R8JaS_/view?usp=drivesdk"
+        "id": "12ahW3AoCs-Ki8FFw6tNySS8T2iVxdtJZ",
+        "name": "IMG_7656.jpg",
+        "driveUrl": "https://drive.google.com/file/d/12ahW3AoCs-Ki8FFw6tNySS8T2iVxdtJZ/view?usp=drivesdk"
+      },
+      {
+        "id": "1MiiPQSbMtirptpfFKvGGvKp-MBae1Oq5",
+        "name": "IMG_7671.jpg",
+        "driveUrl": "https://drive.google.com/file/d/1MiiPQSbMtirptpfFKvGGvKp-MBae1Oq5/view?usp=drivesdk"
+      },
+      {
+        "id": "197lEv-NgbH2XHYWC7oFkq6DattHpt9Qf",
+        "name": "IMG_7672.jpg",
+        "driveUrl": "https://drive.google.com/file/d/197lEv-NgbH2XHYWC7oFkq6DattHpt9Qf/view?usp=drivesdk"
+      },
+      {
+        "id": "1y6gF5_6KSYjPWjXKcB71sVoX9kyH5BYS",
+        "name": "IMG_7674-2.jpg",
+        "driveUrl": "https://drive.google.com/file/d/1y6gF5_6KSYjPWjXKcB71sVoX9kyH5BYS/view?usp=drivesdk"
+      },
+      {
+        "id": "1rpAkpnR2Kp9_E3bHgcJqnf93F6AuDC-V",
+        "name": "IMG_7678.jpg",
+        "driveUrl": "https://drive.google.com/file/d/1rpAkpnR2Kp9_E3bHgcJqnf93F6AuDC-V/view?usp=drivesdk"
+      },
+      {
+        "id": "1X6e31pYSARkQ1DqRtDbD1ESbYZwIaAi7",
+        "name": "IMG_7689-2.jpg",
+        "driveUrl": "https://drive.google.com/file/d/1X6e31pYSARkQ1DqRtDbD1ESbYZwIaAi7/view?usp=drivesdk"
+      },
+      {
+        "id": "17xxw7qn7NNbPXjiNlLvGorjctWXHxZKm",
+        "name": "IMG_7699.jpg",
+        "driveUrl": "https://drive.google.com/file/d/17xxw7qn7NNbPXjiNlLvGorjctWXHxZKm/view?usp=drivesdk"
+      },
+      {
+        "id": "1JZDalD5nod3w-2-TcuOkTkH-du9nH0ai",
+        "name": "IMG_7714-2.jpg",
+        "driveUrl": "https://drive.google.com/file/d/1JZDalD5nod3w-2-TcuOkTkH-du9nH0ai/view?usp=drivesdk"
+      },
+      {
+        "id": "1vDbhjCwDT9ZL7KvINgSpQEArmMrVqPte",
+        "name": "IMG_7720-2.jpg",
+        "driveUrl": "https://drive.google.com/file/d/1vDbhjCwDT9ZL7KvINgSpQEArmMrVqPte/view?usp=drivesdk"
+      },
+      {
+        "id": "1K8-gVD5qoYmup82WBRor2rs_TOqOpesk",
+        "name": "IMG_7723-3.jpg",
+        "driveUrl": "https://drive.google.com/file/d/1K8-gVD5qoYmup82WBRor2rs_TOqOpesk/view?usp=drivesdk"
       }
     ]
   },
@@ -777,11 +589,6 @@
     "folderId": "13Q1EVRC-Immer6dzLMJYRTt1eOJHhD2K",
     "photos": [
       {
-        "id": "16gqT_c-zrlnyq_YOXfmvPKAYZ-ZiOO0k",
-        "name": "DSC_0144.jpg",
-        "driveUrl": "https://drive.google.com/file/d/16gqT_c-zrlnyq_YOXfmvPKAYZ-ZiOO0k/view?usp=drivesdk"
-      },
-      {
         "id": "1CHnfh5pbpXs2QPNyjjpUjOIXK1BlWLHz",
         "name": "DSC_0157.jpg",
         "driveUrl": "https://drive.google.com/file/d/1CHnfh5pbpXs2QPNyjjpUjOIXK1BlWLHz/view?usp=drivesdk"
@@ -790,21 +597,6 @@
         "id": "1TRLaJOmHCLJpwUdL6Y7pA19nwzdYBO7o",
         "name": "DSC_0183.jpg",
         "driveUrl": "https://drive.google.com/file/d/1TRLaJOmHCLJpwUdL6Y7pA19nwzdYBO7o/view?usp=drivesdk"
-      },
-      {
-        "id": "10tlG7ZTYMDcU0odlher79OkGCohzadD9",
-        "name": "DSCF5345.JPG",
-        "driveUrl": "https://drive.google.com/file/d/10tlG7ZTYMDcU0odlher79OkGCohzadD9/view?usp=drivesdk"
-      },
-      {
-        "id": "1n0UZ90Y_wfctpdA0Fd0dsEkzqDip5vdI",
-        "name": "DSCF5350.JPG",
-        "driveUrl": "https://drive.google.com/file/d/1n0UZ90Y_wfctpdA0Fd0dsEkzqDip5vdI/view?usp=drivesdk"
-      },
-      {
-        "id": "1RPaQfoyspmAkyI8JBBNIiS9VXUdNxkrk",
-        "name": "DSCF5353.JPG",
-        "driveUrl": "https://drive.google.com/file/d/1RPaQfoyspmAkyI8JBBNIiS9VXUdNxkrk/view?usp=drivesdk"
       }
     ]
   }
